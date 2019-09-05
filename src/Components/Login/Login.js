@@ -33,7 +33,7 @@ class Login extends Component {
       <ScrollView style={styles.body}>
         <SafeAreaView>
           <Image
-            source={require('../../images/logoS4N.jpg')}
+            source={require('../../images/logo.jpg')}
             style={styles.imageLogo}
           />
           <View>
